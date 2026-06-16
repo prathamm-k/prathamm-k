@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pratham Kairamkonda and I'm a tech enthusiast specializing in software development, machine learning, and AI, from India</h2>
+<h2 align="left">Hi! My name is Pratham Kairamkonda and I'm a tech enthusiast specializing in software development, machine learning, and AI, from India. I have hands-on experience and projects spanning enterprise pharma software, local LLM pipelines, and multimodal AI – research to deployment, built from scratch.</h2>
 
 ###
 
@@ -15,10 +15,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamm-k&label=Profile%20views&color=0e75b6&style=flat" alt="prathamm-k" /> </p>
 
-- 🌱 I’m currently learning **Instruction-Finetuning in Contemporary Open-Source LLMs, LLM Quantization and Inference Efficiency**
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/prathamm-k)
-- 💬 Ask me about **LLMs, Quantizations, and Optimization of LLMs on Edge Devices**
-- 📫 Reach me at **kairamkondapratham@gmail.com**
+- I’m currently learning **Instruction-Finetuning in Contemporary Open-Source LLMs, LLM Quantization and Inference Efficiency**
+- All of my projects are available at [GitHub Profile](https://github.com/prathamm-k)
+- Ask me about **LLMs, Quantizations, and Optimization of LLMs on Edge Devices**
+- Reach me at **kairamkondapratham@gmail.com**
 
 ###
 
