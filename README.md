@@ -18,7 +18,7 @@ Hi! My name is Pratham Kairamkonda and I'm a tech enthusiast specializing in sof
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamm-k&label=Profile%20views&color=0e75b6&style=flat" alt="prathamm-k" /> </p>
 
 - I’m currently learning **Instruction-Finetuning in Contemporary Open-Source LLMs, LLM Quantization and Inference Efficiency**
-- All of my projects are available at [GitHub Profile](https://github.com/prathamm-k)
+- All of my projects are available at [GitHub Profile](https://github.com/prathamm-k/?tab=repositories)
 - Ask me about **LLMs, Quantizations, and Optimization of LLMs on Edge Devices**
 - Reach me at **kairamkondapratham@gmail.com**
 
